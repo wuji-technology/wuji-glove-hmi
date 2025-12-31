@@ -19,13 +19,7 @@ Download the latest `.deb` package from the [Releases](../../releases) page.
 ### Installation
 
 ```bash
-sudo dpkg -i wuji-glove-hmi_x.x.x_amd64.deb
-```
-
-If you encounter dependency issues:
-
-```bash
-sudo apt-get install -f
+sudo apt install ./wuji-glove-hmi_x.x.x_amd64.deb
 ```
 
 ### Launch
@@ -54,13 +48,7 @@ wuji-glove-hmi
 ### 安装
 
 ```bash
-sudo dpkg -i wuji-glove-hmi_x.x.x_amd64.deb
-```
-
-如遇到依赖问题：
-
-```bash
-sudo apt-get install -f
+sudo apt install ./wuji-glove-hmi_x.x.x_amd64.deb
 ```
 
 ### 启动
